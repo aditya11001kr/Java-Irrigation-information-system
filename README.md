@@ -21,5 +21,3 @@ Guvi Project
 2. Open `index.html` in a web browser to view the project.
 
 ## Author
-- Your Name
-- Your Contact Information
